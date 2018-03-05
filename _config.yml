@@ -20,7 +20,7 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "CBSHacks"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
@@ -51,9 +51,8 @@ event:
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      Example Hacks is a hackathon hosted at Shaheed Sukhdev College of Business Studies.
+      This is your opportunity to build something unique, awesome and cool, togther with your team.
 
   # Info Sections
   info:
